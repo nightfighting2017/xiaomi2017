@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0; font-size:12px;}
+body{background-color:#F5F5F5;}
+.tab{ width:1226px; height:686px;  margin:0 auto;}
+.tab_head{height:58px; color:#333;}
+.tab_head h2{float:left; height:58px; line-height:58px; font-size:22px;}
+.more{float:right; line-height:58px;}
+.more a{color:#424242; text-decoration:none; font-size:16px; margin-left:23px;}
+.more a:hover{border-bottom:2px solid #ff6700; color:#ff6700;}
+.tab_body{height:628px;}
+.left{width:234px; height:614px; float:left;}
+.right{width:992px; height:614px; float:left;}
+.item{width:234px; height:300px; background-color:#FFF; float:left; margin-left:14px; margin-bottom:14px;}
+.zhekou,.xinpin{width:64px; height:20px; color:#FFF; margin-left:85px; text-align:center; line-height:20px;}
+.zhekou{background-color:#e53935;}
+.xinpin{background-color:#83c44e;}
+.tupian{width:150px; height:150px; margin:30px auto 0;}
+.flag{ margin-top:10px;}
+.tupian_title,.tupian_des,.tupian_price{text-align:center; font-family: "微软雅黑";}
+.tupian_price{ height:20px;color:#F60; font-size:12px;}
+.tupian_title{ padding-top:10px; font-size:13px; color:#202020;}
+.tupian_des{ padding-top:5px; padding-bottom:13px;}
+.tupian_des,.yuanjia{ color:#b0b0b0;}
+.yuanjia{ margin-left:0.25em;}
+.item_active{ box-shadow:0px 5px 10px 2px #ddd; position: relative}
+
+

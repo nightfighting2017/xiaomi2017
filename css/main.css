@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0; font-size:12px;}
+body{ background-color:#F5F5F5;}
+.top{height:40px; background-color:#333;}
+.menu{ height:40px; width:605px; margin-left:60px; float:left;}
+.menu a{color:#b0b0b0; text-decoration:none;line-height:40px;}
+.sep{color:#424242; margin-left:0.5em;}
+.menu a:link,.menu a:visited{ text-decoration:none; color:#b0b0b0; font-size:11px; font-family: sans-serif;}
+.menu a:hover,.menu a:active{ text-decoration:none; color: #FFF; font-size:11px; font-family: sans-serif;}
+.top_cart{width:120px; height:40px; background-color:#424242; float:right; margin-right:60px; text-align:center; line-height:40px; color:#b0b0b0;}
+.top_cart img{vertical-align:-6px;}
+.sub_menu{width:165px; float:right;}
+.sub_menu a{color:#b0b0b0; text-decoration:none; padding-right:3px; padding-left:3px; line-height:40px;}
+.sub_menu a:link,.sub_menu a:visited{ text-decoration:none; color:#b0b0b0;}
+.sub_menu a:hover,.sub_menu a:active{ text-decoration:none; color: #FFF;}
+.header{width:1244px; height:100px; margin:0 auto; overflow:hidden;}
+.logo{ margin-top:22px; float:left;}
+.header_ad{margin-left:10px; margin-top:18px; float:left;}
+.nav{float:left;}
+.nav a{ margin-left:10px; text-decoration:none; font-size:16px; color:#333; line-height:100px;}
+.search{float:right; width:296px; height:100px; }
+.search_input{width:223px; height:48px; padding:1px 10px; border:1px solid #e0e0e0; margin-top:25px; float:left;}
+.search button{box-sizing:content-box; width:30px; height:48px; padding:1px 10px; border:1px solid #e0e0e0; background-color:#FFF; margin-top:25px; float:left; margin-left:-1px; cursor:pointer;}
+
+
+
+
+
+
